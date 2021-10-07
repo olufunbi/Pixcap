@@ -13,3 +13,5 @@ The 'Baseline Image' can be found in the snapshots folder.
 
 I simulated a scenario where I made the script fail on purpose so that you can see the Image comparison algorithm in action. You can see the image in the `__diff_output__` folder that is under the snapshots folder.
 
+The Spec file for the test is named `Pixcap.js` and is found under the `Integration` folder
+
